@@ -1,4 +1,4 @@
-# 🧠 Researcher & Software Engineer
+# Researcher & Software Engineer
 
 #### Technical Skills: Python, PHP, JavaScript, MySQL, Deep Learning, Large Language Models (LLMs), Computer Vision, Network Analysis, Docker, Fog Computing
 
