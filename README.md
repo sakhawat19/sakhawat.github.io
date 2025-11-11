@@ -13,7 +13,7 @@
   Focus: Fog Computing; Edge Network; Wireless Sensors
 
 - **B.S., Computer Science and Engineering | Dhaka International University, Bangladesh** (_Dec 2013_)
-   _
+   .
 
 ---
 
