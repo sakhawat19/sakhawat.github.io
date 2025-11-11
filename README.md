@@ -6,14 +6,14 @@
 
 ## Education
 
-- **Ph.D. Student, Computer Science | University of North Carolina at Greensboro** (_Aug 2023 – Present_)  
+- **Ph.D. Student, Computer Science | University of North Carolina at Greensboro, Greensboro, NC, USA** (_Aug 2023 – Present_)  
   Focus: Reliability, Security, and Privacy in Large Language Models; Social Network Analysis  
 
 - **M.S., Information Technology | University of Dhaka, Bangladesh** (_Dec 2016_)
-   
+  Focus: Fog Computing; Edge Network; Wireless Sensors
 
 - **B.S., Computer Science and Engineering | Dhaka International University, Bangladesh** (_Dec 2013_)
-   
+   b
 
 ---
 
