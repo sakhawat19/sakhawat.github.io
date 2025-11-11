@@ -22,13 +22,13 @@
 **Research Assistant @ University of North Carolina at Greensboro** (_Aug 2023 – Present_)  
 - Conduct research on LLM reliability, privacy, and hallucination detection under Dr. Jing Deng.  
 - Develop methods for mitigating hallucinations and adversarial vulnerabilities in LLMs.  
-- Contribute to an NSF-funded Social Network Analysis (SNA)** project exploring relationships and hierarchies in Magdalenian hunter-gatherer societies.  
+- Contribute to an NSF-funded Social Network Analysis (SNA) project exploring relationships and hierarchies in Magdalenian hunter-gatherer societies.  
 - Focus areas: trustworthy AI, data privacy, NLP robustness, and network science.
 
-**Senior Software Programmer @ Fiber@Home Ltd** (_Jul 2017 – Aug 2023_)  
+**Senior Software Programmer @ Fiber@Home Ltd** (_Jul 2017 – Jul 2023_)  
 - Served as a Full Stack Developer designing and maintaining ERP systems using PHP, Bootstrap, JavaScript, AngularJS, and MySQL.  
-- Led front-end and back-end development of enterprise tools and mobile applications for internal use.  
-- Implemented robust data integration and compatibility testing frameworks improving overall software performance.
+- Led front-end and back-end development of enterprise tools and mobile applications.  
+- Implemented robust data integration and compatibility testing frameworks, improving overall software performance.
 
 **Web Developer @ Server Oasis Ltd** (_Apr 2013 – Mar 2016_)  
 - Designed and developed dynamic web solutions using WordPress, Drupal, and DotNetNuke frameworks.  
