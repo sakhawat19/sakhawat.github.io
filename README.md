@@ -1,55 +1,99 @@
-# Data Scientist
+# 🧠 Researcher & Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, PHP, JavaScript, MySQL, Deep Learning, Large Language Models (LLMs), Computer Vision, Network Analysis, Docker, Fog Computing
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+---
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## 🎓 Education
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- **Ph.D. Student, Computer Science | University of North Carolina at Greensboro** (_Aug 2023 – Present_)  
+  Focus: Reliability, Security, and Privacy in Large Language Models; Social Network Analysis  
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+- **M.S., Information Technology | University of Dhaka, Bangladesh** (_Dec 2016_)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- **B.S., Computer Science and Engineering | Dhaka International University, Bangladesh** (_Dec 2013_)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+---
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## 💼 Work Experience
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Research Assistant @ University of North Carolina at Greensboro** (_Aug 2023 – Present_)  
+- Conduct research on **LLM reliability, privacy, and hallucination detection** under Dr. Jing Deng.  
+- Develop methods for mitigating hallucinations and adversarial vulnerabilities in LLMs.  
+- Contribute to an **NSF-funded Social Network Analysis (SNA)** project exploring relationships and hierarchies in Magdalenian hunter-gatherer societies.  
+- Focus areas: trustworthy AI, data privacy, NLP robustness, and network science.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**Senior Software Programmer @ Fiber@Home Ltd** (_Jul 2017 – Aug 2023_)  
+- Served as a **Full Stack Developer** designing and maintaining ERP systems using **PHP, Bootstrap, JavaScript, AngularJS, and MySQL**.  
+- Led front-end and back-end development of enterprise tools and mobile applications for internal use.  
+- Implemented robust data integration and compatibility testing frameworks improving overall software performance.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+**Web Developer @ Server Oasis Ltd** (_Apr 2013 – Mar 2016_)  
+- Designed and developed dynamic web solutions using **WordPress, Drupal, and DotNetNuke** frameworks.  
+- Built and customized responsive themes using **Bootstrap, HTML5, CSS3, JavaScript, and C#**.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+---
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+## 🔬 Research Projects
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### Reliability and Hallucination Detection in LLMs
+Developing algorithms to detect, measure, and reduce **hallucination** in large language models (e.g., GPT, LLaMA).  
+Evaluating model robustness under **adversarial prompts** and designing **privacy-preserving** mechanisms to prevent data leakage in training pipelines.
+
+---
+
+### Social Network Analysis of Magdalenian Societies
+Applying **graph theory and network modeling** to study social structures, relationships, and information flow in prehistoric hunter-gatherer communities.  
+Revealing **hidden social hierarchies** and behavioral patterns through computational modeling and network visualization.
+
+---
+
+### Fog-Based Dynamic Traffic Light Control System for Improving Public Transport  
+[📄 Publication](https://doi.org/10.1007/s12469-020-00235-z)  
+Developed an intelligent fog-computing-based traffic control system covering multiple city intersections using **IoT sensors** and **real-time traffic data**.  
+Designed distributed data architecture using **Docker** to optimize traffic flow and reduce congestion.
+
+![Fog-Based Traffic System](https://user-images.githubusercontent.com/your-image-link/fog_traffic_system.jpg)
+
+---
+
+### Efficient Dynamic Traffic Light Control for ITS  
+[📄 Publication](https://doi.org/10.1145/3018896.3056807)  
+Proposed an **intelligent traffic control algorithm** for single intersections using **sensor-driven adaptive phase selection**, improving efficiency for intelligent transportation systems.
+
+![ITS Control System](https://user-images.githubusercontent.com/your-image-link/its_control_system.jpg)
+
+---
+
+## 📚 Publications
+
+1. **Hossan, S.**, Nower, N. *Fog-based dynamic traffic light control system for improving public transport.* _Public Transport_, 12, 431–454 (2020). [https://doi.org/10.1007/s12469-020-00235-z](https://doi.org/10.1007/s12469-020-00235-z)  
+2. **Rimi, M.M.**, Ahmed, M.R., **Hossan, S.**, et al. *A Cost-Effective IoT Device for Protecting People from the Dangers of Environmental Risk in Bangladesh.* _ICCED 2022_. [https://doi.org/10.1109/ICCED56140.2022.10010393](https://doi.org/10.1109/ICCED56140.2022.10010393)  
+3. **Nower, N.**, **Hossan, S.**, *Efficient Dynamic Traffic Light Control for ITS.* _ICC ’17: Internet of Things, Data and Cloud Computing._ [https://doi.org/10.1145/3018896.3056807](https://doi.org/10.1145/3018896.3056807)
+
+---
+
+## 🏆 Awards & Achievements
+
+- 🎓 Research Assistantship (RA), Institute of Information Technology, University of Dhaka (2016–2020)  
+- 🏅 Dean’s Scholarship (DIU) for achieving GPA 4.00 / 4.00 for three consecutive semesters  
+- 💻 1st Runner-Up, Victory Day Programming Contest 2011  
+- 🧪 Winner, National Science Fair (District Level), 2009  
+
+---
+
+## 🤝 Professional Activities
+
+- Assistant General Secretary & Treasurer, Dhaka International University Alumni Association  
+- Member, Bangladesh Computer Society (BCS)
+
+---
+
+📫 **Contact:**  
+📍 Greensboro, NC, USA  
+✉️ [s_hossan@uncg.edu](mailto:s_hossan@uncg.edu)  
+📞 +1 (984) 325-2394  
+🌐 [LinkedIn](https://www.linkedin.com/in/sakhawat-hossan) | [Google Scholar](https://scholar.google.com/) | [GitHub](https://github.com/yourusername)
+
+---
+⭐️ _“Advancing trustworthy AI and efficient software for a better-connected world.”_
