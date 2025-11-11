@@ -4,7 +4,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Ph.D. Student, Computer Science | University of North Carolina at Greensboro** (_Aug 2023 – Present_)  
   Focus: Reliability, Security, and Privacy in Large Language Models; Social Network Analysis  
@@ -15,7 +15,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Research Assistant @ University of North Carolina at Greensboro** (_Aug 2023 – Present_)  
 - Conduct research on **LLM reliability, privacy, and hallucination detection** under Dr. Jing Deng.  
@@ -65,7 +65,7 @@ Proposed an **intelligent traffic control algorithm** for single intersections u
 
 ---
 
-## 📚 Publications
+## Publications
 
 1. **Hossan, S.**, Nower, N. *Fog-based dynamic traffic light control system for improving public transport.* _Public Transport_, 12, 431–454 (2020). [https://doi.org/10.1007/s12469-020-00235-z](https://doi.org/10.1007/s12469-020-00235-z)  
 2. **Rimi, M.M.**, Ahmed, M.R., **Hossan, S.**, et al. *A Cost-Effective IoT Device for Protecting People from the Dangers of Environmental Risk in Bangladesh.* _ICCED 2022_. [https://doi.org/10.1109/ICCED56140.2022.10010393](https://doi.org/10.1109/ICCED56140.2022.10010393)  
@@ -73,7 +73,7 @@ Proposed an **intelligent traffic control algorithm** for single intersections u
 
 ---
 
-## 🏆 Awards & Achievements
+## Awards & Achievements
 
 - 🎓 Research Assistantship (RA), Institute of Information Technology, University of Dhaka (2016–2020)  
 - 🏅 Dean’s Scholarship (DIU) for achieving GPA 4.00 / 4.00 for three consecutive semesters  
@@ -82,17 +82,16 @@ Proposed an **intelligent traffic control algorithm** for single intersections u
 
 ---
 
-## 🤝 Professional Activities
+## Professional Activities
 
 - Assistant General Secretary & Treasurer, Dhaka International University Alumni Association  
 - Member, Bangladesh Computer Society (BCS)
 
 ---
 
-📫 **Contact:**  
+ **Contact:**  
 📍 Greensboro, NC, USA  
 ✉️ [s_hossan@uncg.edu](mailto:s_hossan@uncg.edu)  
-📞 +1 (984) 325-2394  
 🌐 [LinkedIn](https://www.linkedin.com/in/sakhawat-hossan) | [Google Scholar](https://scholar.google.com/) | [GitHub](https://github.com/yourusername)
 
 ---
