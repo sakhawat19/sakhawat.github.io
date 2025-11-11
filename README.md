@@ -36,7 +36,7 @@
 
 ---
 
-## 🔬 Research Projects
+## Research Projects
 
 ### Reliability and Hallucination Detection in LLMs
 Developing algorithms to detect, measure, and reduce hallucination in large language models (e.g., GPT, LLaMA).  
@@ -55,15 +55,11 @@ Revealing hidden social hierarchies and behavioral patterns through computationa
 Developed an intelligent fog-computing-based traffic control system covering multiple city intersections using IoT sensors and real-time traffic data.  
 Designed distributed data architecture using Docker to optimize traffic flow and reduce congestion.
 
-![Fog-Based Traffic System](https://user-images.githubusercontent.com/your-image-link/fog_traffic_system.jpg)
-
 ---
 
 ### Efficient Dynamic Traffic Light Control for ITS  
 [📄 Publication](https://doi.org/10.1145/3018896.3056807)  
 Proposed an intelligent traffic control algorithm for single intersections using sensor-driven adaptive phase selection, improving efficiency for intelligent transportation systems.
-
-![ITS Control System](https://user-images.githubusercontent.com/your-image-link/its_control_system.jpg)
 
 ---
 
@@ -77,10 +73,10 @@ Proposed an intelligent traffic control algorithm for single intersections using
 
 ## Awards & Achievements
 
-- 🎓 Research Assistantship (RA), Institute of Information Technology, University of Dhaka (2016–2020)  
-- 🏅 Dean’s Scholarship (DIU) for achieving GPA 4.00 / 4.00 for three consecutive semesters  
-- 💻 1st Runner-Up, Victory Day Programming Contest 2011  
-- 🧪 Winner, National Science Fair (District Level), 2009  
+- Research Assistantship (RA), Institute of Information Technology, University of Dhaka (2016–2020)  
+- Dean’s Scholarship (DIU) for achieving GPA 4.00 / 4.00 for three consecutive semesters  
+- 1st Runner-Up, Victory Day Programming Contest 2011  
+- Winner, National Science Fair (District Level), 2009  
 
 ---
 
