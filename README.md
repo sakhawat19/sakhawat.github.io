@@ -10,10 +10,10 @@
   Focus: Reliability, Security, and Privacy in Large Language Models; Social Network Analysis  
 
 - **M.S., Information Technology | University of Dhaka, Bangladesh** (_Dec 2016_)
-  sdsd dsfasd
+   
 
 - **B.S., Computer Science and Engineering | Dhaka International University, Bangladesh** (_Dec 2013_)
-  asdasd asd
+   
 
 ---
 
